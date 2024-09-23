@@ -9,10 +9,9 @@ This project demonstrates a full-stack React web application deployed and hosted
 
 ## Getting Started
 1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/your-repo/full-stack-react-app.git
-    cd full-stack-react-app
-    ```
+     ```git clone https://github.com/Banti4446/Fullstack_React_Web_Appliaction.git
+cd Fullstack_React_Web_Appliaction
+ ```
 
 2. **Install dependencies**:
     ```bash
